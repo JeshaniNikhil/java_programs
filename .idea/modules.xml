@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datatype/datatype.iml" filepath="$PROJECT_DIR$/datatype/datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first programe/first programe.iml" filepath="$PROJECT_DIR$/first programe/first programe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java programs.iml" filepath="$PROJECT_DIR$/.idea/java programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variable/variable.iml" filepath="$PROJECT_DIR$/variable/variable.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arithmeticopr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arraysorting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditionalstatements" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mathfunction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/twodarray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/typeconversion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/userinput" vcs="Git" />
+  </component>
+</project>
